@@ -1,3 +1,3 @@
-print("hello github")
-print("Hello from Benjamin")
-print("Hello from Ira")
+print("HELLO github")
+print("HELLO from Benjamin")
+print("HELLO from Ira")
